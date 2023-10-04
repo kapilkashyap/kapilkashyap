@@ -24,9 +24,6 @@ Consider myself a passionate frontend engineer who wishes to contribute back to 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<!--
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=JavaScript&logoColor=F0DB4F)
--->
 
 ## Connect with me
 <p>
@@ -40,12 +37,4 @@ Consider myself a passionate frontend engineer who wishes to contribute back to 
   <img src="https://github-readme-stats.vercel.app/api?username=kapilkashyap&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="kapilkashyap" height="150px"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilkashyap&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="kapilkashyap" height="150px" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilkashyap&theme=chartreuse-dark&hide_border=true" alt="kapilkashyap" height="150px"/>
-  <!-- <img src="https://commit-data-graph.herokuapp.com/graph?username=dhirendersingh19&theme=chartreuse-dark&point=00000000&area=true&hide_border=true" alt="dhirendersingh19"  /> -->
 </p>
-
-<!--
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapilkashyap" alt="kapilkashyap" /></a>
-</p>
-<br/>
--->
