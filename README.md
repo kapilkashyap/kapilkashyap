@@ -4,7 +4,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/kapilkashyap)&nbsp;&nbsp;&nbsp;&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/kapilkashyap)
 
-Consider myself a passionate frontend engineer who wishes to contribute back to the Open-Source community via innovations & solutions.
+A passionate frontend engineer who wishes to contribute back to the Open-Source community via innovations & solutions.
 
 ## About me!
 - 🔭 Currently working on decoupling [jQuery filter json plugin](https://github.com/kapilkashyap/jquery-filter-json-plugin)
