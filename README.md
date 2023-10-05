@@ -35,6 +35,8 @@ Consider myself a passionate frontend engineer who wishes to contribute back to 
 ## Some stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=kapilkashyap&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="kapilkashyap" height="150px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!--
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilkashyap&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="kapilkashyap" height="150px" />&nbsp;&nbsp;&nbsp;&nbsp;
+  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilkashyap&theme=chartreuse-dark&hide_border=true" alt="kapilkashyap" height="150px"/>
 </p>
