@@ -10,7 +10,7 @@ A passionate frontend engineer who wishes to contribute back to the Open-Source 
 - 🔭 Currently working on revamping the [Snake](https://github.com/kapilkashyap/snake) game
 - 🌱 Currently learning [Apache Cordova](https://github.com/apache/cordova-android)
 - 👯 Looking to collaborate on any Open-Source that can use my expertise in frontend technologies
-- 💓 Love high altitude treks, photography, sports, solving puzzles and recreating interactive retro games - Check this out [Snake](https://kapilkashyap.github.io/snake/play.html) 🎮
+- 💓 Love high altitude treks, photography, sports, solving puzzles and recreating interactive retro games - Check this out [Snake](https://kapilkashyap.github.io/snake/) 🎮
 
 ## Tech stack
 <p>
