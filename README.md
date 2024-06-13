@@ -7,8 +7,8 @@
 A passionate frontend engineer who wishes to contribute back to the Open-Source community via innovations & solutions.
 
 ## About me!
-- 🔭 Working on dynamically transforming a JSON into a Class with private properties and accessor methods at runtime [transmute](https://github.com/kapilkashyap/transmute)
-- 🌱 Learning how to efficiently setup a front-end project
+- 👨🏿‍💻 Working on dynamically [transmuting](https://github.com/kapilkashyap/transmute) a JSON into a Class with private properties and accessor methods, at runtime!
+- 🌱 Learning how to efficiently setup a front-end project using [esbuild](https://esbuild.github.io/)
 - 🚀 Exploring different state management libraries and their trade-offs
 - 👯 Looking to collaborate on any Open-Source that can use my expertise in front-end technologies
 - 💓 Love high altitude treks, photography, sports, solving puzzles and recreating interactive retro games - Check this out [Snake](https://kapilkashyap.github.io/snake/) 🎮
@@ -22,6 +22,7 @@ A passionate frontend engineer who wishes to contribute back to the Open-Source 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="redux" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" title="D3JS" alt="d3js" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="java" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
