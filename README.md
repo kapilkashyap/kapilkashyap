@@ -4,7 +4,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/kapilkashyap)&nbsp;&nbsp;&nbsp;&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/kapilkashyap)
 
-A passionate frontend engineer who wishes to contribute back to the Open-Source community via innovations & solutions.
+A passionate frontend engineer driven to drive innovation and deliver impactful solutions, eager to give back to the open-source community.
 
 ## About me!
 - 👨🏿‍💻 Working on dynamically [transmuting](https://github.com/kapilkashyap/transmute) a JSON into a Class with private properties and accessor methods, at runtime!
