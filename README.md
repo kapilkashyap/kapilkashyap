@@ -90,7 +90,7 @@ A passionate frontend engineer driven to drive innovation and deliver impactful 
 -->
 ## Some stats
 <p>
-  <img src="https://github-readme-stats.shion.dev/api?username=kapilkashyap&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="kapilkashyap" height="140px"/>&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=kapilkashyap&theme=chartreuse-dark&hide_border=true&layout=compact&date_format=M%20j%5B%2C%20Y%5D" alt="kapilkashyap" height="140px" />&nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kapilkashyap&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="kapilkashyap" height="140px"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=kapilkashyap&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="kapilkashyap" height="130px"/>&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=kapilkashyap&theme=chartreuse-dark&hide_border=true&layout=compact&date_format=M%20j%5B%2C%20Y%5D" alt="kapilkashyap" height="130px" />&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kapilkashyap&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="kapilkashyap" height="130px"/>
 </p>
