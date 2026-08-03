@@ -11,7 +11,7 @@ A passionate frontend engineer driven to drive innovation and deliver impactful 
 - 🌱 Learning how to efficiently setup a front-end project using [esbuild](https://esbuild.github.io/)
 - 🚀 Exploring different state management libraries and their trade-offs
 - 👯 Looking to collaborate on any Open-Source that can use my expertise in front-end technologies
-- 💓 Love high altitude treks, photography, sports, solving puzzles and recreating interactive retro games - Check this out [Snake](https://kapilkashyap.github.io/snake/) 🎮
+- 💓 Love high altitude treks, photography, sports, solving puzzles and recreating interactive retro games - Check [this](https://kapilkashyap.github.io/snake/) out 🎮
 
 ## Tech stack
 ![HTML5](https://img.shields.io/badge/-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -29,7 +29,10 @@ A passionate frontend engineer driven to drive innovation and deliver impactful 
 ![GitHub](https://img.shields.io/badge/-%2320232a.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Esbuild](https://img.shields.io/badge/-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black)&nbsp;
 ![Java](https://img.shields.io/badge/-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-000000?style=for-the-badge&logo=springboot&logoColor=green)&nbsp;
+![Apache Kafka](https://img.shields.io/badge/-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
 <!--
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&logoSize=40)
